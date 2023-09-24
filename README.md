@@ -1,5 +1,5 @@
 ![Full Stack Developer](https://pbs.twimg.com/profile_banners/1670450622485913600/1687366260/600x200)
-### Hi there 👋, i m Rskur Rahman
+### Hi there 👋, i m Askur Rahman
 #### Full Stack Developer
 
 🚀I'm Askur Rahman and in my life of programming journey, I am a full stack developer who loves web development. How web apps work has always intrigued me, but my interests were in other things until I watched my first web programming tutorial and got hooked . I enjoy problem-solving and critical thinking and have successfully delivered high-quality software solutions on numerous projects with various teams.
