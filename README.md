@@ -15,9 +15,7 @@ Assalamu Alaikum, i m Askur Rahman
 
 <p align="left"> <a href="https://twitter.com/iamaskur" target="blank"><img src="https://img.shields.io/twitter/follow/iamaskur?logo=twitter&style=for-the-badge" alt="iamaskur" /></a> </p>
 
-- 🔭 I’m currently working on [organic food Bari](http://organicfoodbari.com/)
-
-- 🌱 I’m currently learning **Backend Developer**
+- 🌱I am currently studying**Backend Developer** and searching for a new opportunity.
 
 - 👯 I’m looking to collaborate on [github](https://github.com/askurdev)
 
